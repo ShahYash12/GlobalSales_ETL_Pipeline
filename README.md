@@ -73,6 +73,9 @@ This project demonstrates a fully automated data pipeline for ingesting, process
     └── *.csv                  # Output files split by country
 ```
 
+The Code files for Flask application, Bucket connection and Function file to load the data to Bigquery are Uploaded. 
+To access Additional Data Transformation and Dashboard files please reach out through LinkedIn or Gmail.
+
 ---
 
 ## ✅ Results
